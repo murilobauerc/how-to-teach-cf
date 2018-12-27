@@ -1,0 +1,5 @@
+---
+applications:
+- name: how-to-teach-cf
+  random-route: true
+  buildpack: staticfile_buildpack
